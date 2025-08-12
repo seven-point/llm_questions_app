@@ -3,21 +3,17 @@ import argparse
 from dotenv import load_dotenv
 import google.generativeai as genai
 
-# --------------------------
-# Load environment variables
-# --------------------------
+#API key added in .env file
+#API used of gemini
 load_dotenv()
 API_KEY = os.getenv("GEMINI_API_KEY")
 
 if not API_KEY:
     raise ValueError("❌ GEMINI_API_KEY not found. Please set it in a .env file or as an environment variable.")
 
-# Configure Gemini
+
 genai.configure(api_key=API_KEY)
 
-# --------------------------
-# Prompt Template
-# --------------------------
 PROMPT_TEMPLATE = """
 You are to generate 2 new math questions based on the style of the provided base questions.
 
@@ -53,9 +49,7 @@ IMPORTANT:
 - Make sure both questions are DIFFERENT in topic but match the style of the base questions.
 """
 
-# --------------------------
-# Functions
-# --------------------------
+
 def read_file(file_path):
     """Reads and returns the content of a text file."""
     with open(file_path, "r", encoding="utf-8") as f:
@@ -86,12 +80,11 @@ def main(args):
     # Print final output
     print(result)
 
-# --------------------------
-# CLI Entry Point
-# --------------------------
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate math questions from base questions using Gemini API.")
     parser.add_argument("--base_file", type=str, default="C:/Users/dsuya/Desktop/llm_question_app/base_questions.txt", help="Path to text file containing base questions")
     parser.add_argument("--curriculum_file", type=str, default="curriculum.txt", help="Path to text file containing curriculum list")
     args = parser.parse_args()
     main(args)
+
