@@ -1,0 +1,39 @@
+Quantitative Math > Problem Solving > Numbers and Operations
+Quantitative Math > Problem Solving > Algebra
+Quantitative Math > Problem Solving > Geometry
+Quantitative Math > Problem Solving > Problem Solving
+Quantitative Math > Problem Solving > Probability and Statistics
+Quantitative Math > Problem Solving > Data Analysis
+Quantitative Math > Algebra > Algebraic Word Problems
+Quantitative Math > Algebra > Interpreting Variables
+Quantitative Math > Algebra > Polynomial Expressions (FOIL/Factoring)
+Quantitative Math > Algebra > Rational Expressions
+Quantitative Math > Algebra > Exponential Expressions (Product rule, negative exponents)
+Quantitative Math > Algebra > Quadratic Equations & Functions (Finding roots/solutions, graphing)
+Quantitative Math > Algebra > Functions Operations
+Quantitative Math > Geometry and Measurement > Area & Volume
+Quantitative Math > Geometry and Measurement > Perimeter
+Quantitative Math > Geometry and Measurement > Lines, Angles, & Triangles
+Quantitative Math > Geometry and Measurement > Right Triangles & Trigonometry
+Quantitative Math > Geometry and Measurement > Circles (Area, circumference)
+Quantitative Math > Geometry and Measurement > Coordinate Geometry
+Quantitative Math > Geometry and Measurement > Slope
+Quantitative Math > Geometry and Measurement > Transformations (Dilating a shape)
+Quantitative Math > Geometry and Measurement > Parallel & Perpendicular Lines
+Quantitative Math > Geometry and Measurement > Solid Figures (Volume of Cubes)
+Quantitative Math > Numbers and Operations > Basic Number Theory
+Quantitative Math > Numbers and Operations > Prime & Composite Numbers
+Quantitative Math > Numbers and Operations > Rational Numbers
+Quantitative Math > Numbers and Operations > Order of Operations
+Quantitative Math > Numbers and Operations > Estimation
+Quantitative Math > Numbers and Operations > Fractions, Decimals, & Percents
+Quantitative Math > Numbers and Operations > Sequences & Series
+Quantitative Math > Numbers and Operations > Computation with Whole Numbers
+Quantitative Math > Numbers and Operations > Operations with Negatives
+Quantitative Math > Data Analysis & Probability > Interpretation of Tables & Graphs
+Quantitative Math > Data Analysis & Probability > Trends & Inferences
+Quantitative Math > Data Analysis & Probability > Probability (Basic, Compound Events)
+Quantitative Math > Data Analysis & Probability > Mean, Median, Mode, & Range
+Quantitative Math > Data Analysis & Probability > Weighted Averages
+Quantitative Math > Data Analysis & Probability > Counting & Arrangement Problems
+Quantitative Math > Reasoning > Word Problems
